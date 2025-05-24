@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    // Write C code here
+   
   char num;
   printf("Enter number or a charecter : ");
   scanf("%c",&num);
