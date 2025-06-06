@@ -1,10 +1,10 @@
 #include <stdio.h>
 
 int main() {
-    // Write C code here
+    // Write C code here 
    int age;
    char name[20];
-   printf("Enetr your name :");
+   printf("Enetr your name...... :");
    scanf("%s",&name);
    printf("Enetr your age :");
    scanf("%d",&age);
